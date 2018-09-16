@@ -7,3 +7,5 @@ Hei og hå
 
 ## Slik gjør man en commit uten editor
 `$ git commit -m "tittel"`
+
+Random endring
