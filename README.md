@@ -9,3 +9,5 @@ Hei og hå
 `$ git commit -m "tittel"`
 
 En slags endring
+
+Dette er Vicces endring *WOOOP WOOP* 
